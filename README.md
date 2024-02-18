@@ -1,5 +1,9 @@
 # Quotes Animation on Scroll with Next.js, Tailwind CSS, and Framer Motion
 
+
+![](demo.gif)
+
+
 ## Project Overview
 
 This project is a simple web application built with Next.js, Tailwind CSS, and Framer Motion to create a quotes animation on scroll. The goal is to provide an engaging and visually appealing user experience by animating quotes as the user scrolls down the page.
@@ -7,9 +11,9 @@ This project is a simple web application built with Next.js, Tailwind CSS, and F
 ## Features
 
 - Smooth scroll animation using Framer Motion.
-- Responsive design with Tailwind CSS for a seamless experience across various devices.
+- Possible responsive design with Tailwind CSS for a seamless experience across various devices.
 - Quotes dynamically loaded from a data source.
-- Easy integration with Next.js for optimized performance and SEO.
+- Easily integrated with Next.js for optimized performance and SEO.
 
 ## Technologies Used
 
@@ -17,9 +21,3 @@ This project is a simple web application built with Next.js, Tailwind CSS, and F
 - [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for rapidly building custom designs.
 - [Framer Motion](https://www.framer.com/motion/): A React animation library that makes it simple to add fluid animations to web applications.
 
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/quotes-animation.git
