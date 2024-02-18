@@ -1,4 +1,6 @@
-# Quotes Animation on Scroll with Next.js, Tailwind CSS, and Framer Motion
+# Quotes Animation on Scroll Technique 
+
+Next.js, Tailwind CSS, and Framer Motion
 
 
 ![](demo.gif)
